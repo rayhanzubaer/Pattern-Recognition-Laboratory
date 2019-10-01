@@ -1,0 +1,23 @@
+@relation yeast-weka.filters.unsupervised.instance.Resample-S0-Z30.0-no-replacement-V
+@attribute f0 numeric
+@attribute f1 numeric
+@attribute f2 numeric
+@attribute f3 numeric
+@attribute f4 numeric
+@attribute f5 numeric
+@attribute f6 numeric
+@attribute f7 numeric
+@attribute class {CYT,NUC,MIT,ME3,ME2,ME1,EXC,VAC,POX,ERL}
+@data
+0.58,0.61,0.47,0.13,0.5,0,0.48,0.22,MIT
+0.43,0.67,0.48,0.27,0.5,0,0.53,0.22,MIT
+0.64,0.62,0.49,0.15,0.5,0,0.53,0.22,MIT
+0.58,0.44,0.57,0.13,0.5,0,0.54,0.22,NUC
+0.42,0.44,0.48,0.54,0.5,0,0.48,0.22,MIT
+0.5,0.54,0.48,0.65,0.5,0,0.53,0.22,MIT
+0.48,0.45,0.59,0.2,0.5,0,0.58,0.34,NUC
+0.55,0.5,0.66,0.36,0.5,0,0.49,0.22,MIT
+0.4,0.39,0.6,0.15,0.5,0,0.58,0.3,CYT
+0.43,0.39,0.54,0.21,0.5,0,0.53,0.27,NUC
+0.42,0.37,0.59,0.2,0.5,0,0.52,0.29,NUC
+0.6,0.4,0.52,0.46,0.5,0,0.53,0.22,MIT
